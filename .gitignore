@@ -1,0 +1,27 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Rider project files
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Others
+*.log
+*.DS_Store
+
+#Ignore the appsettings.json file
+HostelFinder.WebApi/appsettings.json
+HostelFinder.WebApi/appsettings.Development.json

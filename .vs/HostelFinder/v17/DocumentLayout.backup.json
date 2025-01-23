@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Room-Finder-G6\\HostelFinder-Be\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE709054-689F-4BF3-B868-AC9EC293A6D6}|HostelFinder.Application\\HostelFinder.Application.csproj|c:\\users\\dell\\source\\repos\\room-finder-g6\\hostelfinder-be\\src\\hostelfinder.application\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE709054-689F-4BF3-B868-AC9EC293A6D6}|HostelFinder.Application\\HostelFinder.Application.csproj|solutionrelative:hostelfinder.application\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DB3E61-1F9E-4B92-B23E-003C375E4DD7}|HostelFinder.Infrastructure\\HostelFinder.Infrastructure.csproj|c:\\users\\dell\\source\\repos\\room-finder-g6\\hostelfinder-be\\src\\hostelfinder.infrastructure\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DB3E61-1F9E-4B92-B23E-003C375E4DD7}|HostelFinder.Infrastructure\\HostelFinder.Infrastructure.csproj|solutionrelative:hostelfinder.infrastructure\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4801D30B-4281-4FF8-A018-8A1B3357117C}|HostelFinder.WebApi\\HostelFinder.WebApi.csproj|c:\\users\\dell\\source\\repos\\room-finder-g6\\hostelfinder-be\\src\\hostelfinder.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4801D30B-4281-4FF8-A018-8A1B3357117C}|HostelFinder.WebApi\\HostelFinder.WebApi.csproj|solutionrelative:hostelfinder.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 217,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Room-Finder-G6\\HostelFinder-Be\\src\\HostelFinder.Application\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "HostelFinder.Application\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Room-Finder-G6\\HostelFinder-Be\\src\\HostelFinder.Application\\ServiceExtensions.cs",
+              "RelativeToolTip": "HostelFinder.Application\\ServiceExtensions.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T02:39:02.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Room-Finder-G6\\HostelFinder-Be\\src\\HostelFinder.Infrastructure\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "HostelFinder.Infrastructure\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Room-Finder-G6\\HostelFinder-Be\\src\\HostelFinder.Infrastructure\\ServiceRegistration.cs",
+              "RelativeToolTip": "HostelFinder.Infrastructure\\ServiceRegistration.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T02:38:50.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Room-Finder-G6\\HostelFinder-Be\\src\\HostelFinder.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "HostelFinder.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Room-Finder-G6\\HostelFinder-Be\\src\\HostelFinder.WebApi\\Program.cs",
+              "RelativeToolTip": "HostelFinder.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T02:38:00.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 147,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
